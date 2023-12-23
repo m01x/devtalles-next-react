@@ -45,11 +45,12 @@ export const Sidebar = () => {
       <div id="logo" className="my-4 px-6">
         <h1 className="flex items-center  text-lg md:text-2xl font-bold text-white">
           <IoLogoReact className="mr-2" />
-          <span> Dash</span>
-          <span className="text-blue-500">8</span>.
+          <span>Don m</span>
+          <span className="text-blue-500">01</span>
+          <span> x</span>
         </h1>
         <p className="text-slate-500 text-sm">
-          Manage your actions and activities
+          Ejercicio de práctica para el curso de Next.js
         </p>
       </div>
 
@@ -67,7 +68,7 @@ export const Sidebar = () => {
             />
           </span>
           <span className="text-sm md:text-base font-bold">
-            Fernando Herrera
+            Don moix , Flavio.
           </span>
         </a>
       </div>
